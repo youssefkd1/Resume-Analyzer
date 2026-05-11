@@ -1,6 +1,5 @@
 {
   "name": "react-ai-resume-analyzer",
-  "homepage": "https://youssefkd1.github.io/Resume-Analyzer",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,9 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run dev",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview" 
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.2.4",
